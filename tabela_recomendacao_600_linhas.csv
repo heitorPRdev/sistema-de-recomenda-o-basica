@@ -1,0 +1,601 @@
+Acao,Aventura,Documentario,SciFi,Terror,Filme_Recomendado
+4,5,3,5,5,Ilha Perdida
+2,3,3,3,5,Noite Sombria
+4,3,5,2,4,Planeta Terra Hoje
+2,4,5,1,4,Planeta Terra Hoje
+2,5,4,1,1,Ilha Perdida
+3,3,2,4,4,Horizonte Galactico
+3,4,4,1,3,Ilha Perdida
+5,3,5,1,2,Missao Explosiva
+4,1,4,2,2,Missao Explosiva
+1,2,5,2,4,Planeta Terra Hoje
+4,4,4,5,3,Horizonte Galactico
+1,4,2,4,2,Ilha Perdida
+2,4,5,2,2,Planeta Terra Hoje
+4,2,2,4,4,Missao Explosiva
+1,5,5,2,5,Ilha Perdida
+2,1,4,4,4,Planeta Terra Hoje
+5,1,5,5,1,Missao Explosiva
+1,1,1,4,3,Horizonte Galactico
+3,1,3,3,1,Missao Explosiva
+3,5,2,2,1,Ilha Perdida
+4,1,4,2,1,Missao Explosiva
+5,3,4,3,3,Missao Explosiva
+1,3,5,3,1,Planeta Terra Hoje
+5,2,3,1,2,Missao Explosiva
+2,4,5,3,1,Planeta Terra Hoje
+4,5,4,5,5,Ilha Perdida
+3,5,4,5,3,Ilha Perdida
+3,4,2,2,5,Noite Sombria
+1,5,4,4,4,Ilha Perdida
+4,4,3,2,4,Missao Explosiva
+1,1,1,1,3,Noite Sombria
+1,4,5,1,3,Planeta Terra Hoje
+3,1,5,1,3,Planeta Terra Hoje
+2,4,3,1,4,Ilha Perdida
+1,1,2,4,4,Horizonte Galactico
+2,3,1,5,1,Horizonte Galactico
+1,3,1,2,2,Ilha Perdida
+4,5,1,1,3,Ilha Perdida
+2,5,4,2,4,Ilha Perdida
+3,3,1,5,4,Horizonte Galactico
+2,3,1,1,4,Noite Sombria
+3,5,3,4,4,Ilha Perdida
+3,4,3,2,3,Ilha Perdida
+3,4,4,1,1,Ilha Perdida
+2,1,3,4,1,Horizonte Galactico
+1,2,2,3,4,Noite Sombria
+2,1,4,4,1,Planeta Terra Hoje
+2,1,4,5,5,Horizonte Galactico
+3,1,1,3,3,Missao Explosiva
+3,4,1,4,3,Ilha Perdida
+1,4,4,3,1,Ilha Perdida
+3,1,5,2,2,Planeta Terra Hoje
+2,3,5,1,4,Planeta Terra Hoje
+1,4,1,5,4,Horizonte Galactico
+3,1,1,4,3,Horizonte Galactico
+3,5,3,3,3,Ilha Perdida
+2,5,1,4,1,Ilha Perdida
+5,4,5,3,4,Missao Explosiva
+3,1,1,4,4,Horizonte Galactico
+5,5,3,4,1,Missao Explosiva
+5,5,1,5,3,Missao Explosiva
+4,1,4,5,5,Horizonte Galactico
+1,3,2,1,2,Ilha Perdida
+2,3,2,2,3,Ilha Perdida
+2,2,2,1,1,Missao Explosiva
+1,3,5,2,2,Planeta Terra Hoje
+3,2,1,5,4,Horizonte Galactico
+2,1,4,5,4,Horizonte Galactico
+1,4,3,4,2,Ilha Perdida
+2,3,1,2,5,Noite Sombria
+2,2,1,4,2,Horizonte Galactico
+3,4,5,1,5,Planeta Terra Hoje
+4,4,4,5,4,Horizonte Galactico
+5,4,3,4,5,Missao Explosiva
+2,4,2,3,1,Ilha Perdida
+3,4,2,2,5,Noite Sombria
+2,5,1,4,5,Ilha Perdida
+1,2,2,1,2,Ilha Perdida
+1,5,5,1,5,Ilha Perdida
+5,5,3,4,2,Missao Explosiva
+3,5,1,5,4,Ilha Perdida
+5,1,4,5,4,Missao Explosiva
+2,2,5,4,1,Planeta Terra Hoje
+5,2,2,5,4,Missao Explosiva
+2,4,2,2,3,Ilha Perdida
+2,1,5,5,4,Planeta Terra Hoje
+2,1,4,3,4,Planeta Terra Hoje
+4,2,3,4,1,Missao Explosiva
+1,5,3,3,5,Ilha Perdida
+4,3,1,1,2,Missao Explosiva
+3,4,5,5,4,Planeta Terra Hoje
+2,5,3,2,3,Ilha Perdida
+1,2,5,2,2,Planeta Terra Hoje
+2,2,3,1,4,Noite Sombria
+2,5,2,5,3,Ilha Perdida
+5,4,1,5,5,Missao Explosiva
+1,4,2,5,1,Horizonte Galactico
+3,1,3,4,2,Horizonte Galactico
+1,5,4,1,5,Ilha Perdida
+1,3,1,1,1,Ilha Perdida
+4,1,5,3,3,Planeta Terra Hoje
+1,4,4,5,1,Horizonte Galactico
+3,4,1,4,4,Ilha Perdida
+3,2,5,5,3,Planeta Terra Hoje
+4,1,4,3,5,Noite Sombria
+4,5,1,5,5,Ilha Perdida
+2,2,2,5,3,Horizonte Galactico
+5,3,3,2,4,Missao Explosiva
+1,2,2,4,1,Horizonte Galactico
+5,5,2,1,2,Missao Explosiva
+3,2,2,5,5,Horizonte Galactico
+5,3,5,1,4,Missao Explosiva
+1,1,5,4,4,Planeta Terra Hoje
+4,3,5,4,3,Planeta Terra Hoje
+2,2,3,3,5,Noite Sombria
+5,2,4,2,4,Missao Explosiva
+4,5,1,1,3,Ilha Perdida
+5,4,1,4,1,Missao Explosiva
+1,1,5,2,4,Planeta Terra Hoje
+5,5,5,5,5,Missao Explosiva
+3,4,5,4,3,Planeta Terra Hoje
+3,4,1,2,1,Ilha Perdida
+1,1,5,3,1,Planeta Terra Hoje
+3,4,2,4,4,Ilha Perdida
+5,2,4,4,2,Missao Explosiva
+2,4,2,4,4,Ilha Perdida
+5,1,4,3,1,Missao Explosiva
+1,1,5,4,5,Planeta Terra Hoje
+4,5,5,3,5,Ilha Perdida
+2,3,5,1,2,Planeta Terra Hoje
+2,2,3,5,5,Horizonte Galactico
+1,1,2,1,3,Noite Sombria
+5,2,1,3,3,Missao Explosiva
+1,5,1,2,1,Ilha Perdida
+3,1,5,4,1,Planeta Terra Hoje
+5,5,3,5,5,Missao Explosiva
+5,5,2,2,3,Missao Explosiva
+1,5,1,1,3,Ilha Perdida
+5,5,4,1,1,Missao Explosiva
+2,4,2,2,2,Ilha Perdida
+3,3,2,4,1,Horizonte Galactico
+4,5,3,1,1,Ilha Perdida
+5,5,2,3,3,Missao Explosiva
+4,2,2,2,2,Missao Explosiva
+3,3,2,4,1,Horizonte Galactico
+1,4,2,3,1,Ilha Perdida
+5,5,4,2,1,Missao Explosiva
+2,1,4,4,5,Noite Sombria
+2,5,2,5,3,Ilha Perdida
+3,3,3,1,3,Missao Explosiva
+4,4,1,3,3,Missao Explosiva
+3,5,2,5,2,Ilha Perdida
+3,3,5,5,2,Planeta Terra Hoje
+4,2,5,5,1,Planeta Terra Hoje
+5,1,4,2,2,Missao Explosiva
+1,2,5,3,1,Planeta Terra Hoje
+2,1,1,3,5,Noite Sombria
+1,2,4,1,1,Planeta Terra Hoje
+3,5,4,2,4,Ilha Perdida
+2,5,2,3,3,Ilha Perdida
+3,3,4,5,2,Horizonte Galactico
+2,3,3,1,5,Noite Sombria
+4,2,1,1,2,Missao Explosiva
+4,1,1,5,4,Horizonte Galactico
+1,4,2,3,1,Ilha Perdida
+5,2,4,2,1,Missao Explosiva
+4,3,2,1,5,Noite Sombria
+4,2,2,3,3,Missao Explosiva
+5,5,1,1,5,Missao Explosiva
+5,4,3,1,3,Missao Explosiva
+3,5,4,2,4,Ilha Perdida
+4,3,4,1,3,Missao Explosiva
+1,2,3,2,3,Planeta Terra Hoje
+5,4,5,2,4,Missao Explosiva
+3,4,1,4,1,Ilha Perdida
+4,1,2,5,3,Horizonte Galactico
+4,5,3,3,1,Ilha Perdida
+2,2,5,2,4,Planeta Terra Hoje
+2,5,2,4,1,Ilha Perdida
+5,1,1,1,3,Missao Explosiva
+3,1,5,4,4,Planeta Terra Hoje
+2,5,3,1,2,Ilha Perdida
+4,3,3,1,4,Missao Explosiva
+5,3,1,5,4,Missao Explosiva
+3,5,5,5,3,Ilha Perdida
+3,2,4,1,5,Noite Sombria
+2,1,2,3,5,Noite Sombria
+1,1,1,1,1,Missao Explosiva
+2,5,3,3,3,Ilha Perdida
+3,2,4,5,1,Horizonte Galactico
+4,3,4,5,1,Horizonte Galactico
+1,5,5,3,1,Ilha Perdida
+4,2,2,5,3,Horizonte Galactico
+2,1,5,4,5,Planeta Terra Hoje
+4,5,5,5,4,Ilha Perdida
+4,5,2,3,3,Ilha Perdida
+3,4,4,2,3,Ilha Perdida
+3,5,4,3,2,Ilha Perdida
+2,3,4,2,5,Noite Sombria
+2,1,1,4,3,Horizonte Galactico
+4,4,4,4,5,Noite Sombria
+5,2,1,4,2,Missao Explosiva
+1,3,5,1,3,Planeta Terra Hoje
+1,5,5,2,4,Ilha Perdida
+1,1,3,5,1,Horizonte Galactico
+5,1,2,4,1,Missao Explosiva
+5,2,1,3,4,Missao Explosiva
+1,2,3,2,2,Planeta Terra Hoje
+3,2,3,1,3,Missao Explosiva
+3,4,3,3,1,Ilha Perdida
+4,5,1,1,5,Ilha Perdida
+3,2,4,2,5,Noite Sombria
+1,1,4,1,1,Planeta Terra Hoje
+4,4,5,1,1,Planeta Terra Hoje
+5,3,3,3,5,Missao Explosiva
+1,5,5,3,2,Ilha Perdida
+1,3,2,2,4,Noite Sombria
+1,2,3,4,1,Horizonte Galactico
+5,3,2,2,3,Missao Explosiva
+2,4,1,4,2,Ilha Perdida
+5,1,1,3,3,Missao Explosiva
+5,1,5,3,3,Missao Explosiva
+1,4,2,3,3,Ilha Perdida
+4,4,5,5,2,Planeta Terra Hoje
+2,1,5,3,5,Planeta Terra Hoje
+3,4,5,4,2,Planeta Terra Hoje
+2,1,5,4,3,Planeta Terra Hoje
+2,2,3,4,4,Horizonte Galactico
+5,5,1,2,5,Missao Explosiva
+4,3,4,2,4,Missao Explosiva
+1,2,3,1,2,Planeta Terra Hoje
+3,1,1,2,5,Noite Sombria
+1,1,3,4,2,Horizonte Galactico
+2,5,5,2,5,Ilha Perdida
+3,2,5,2,4,Planeta Terra Hoje
+1,2,1,5,1,Horizonte Galactico
+2,4,5,2,5,Planeta Terra Hoje
+3,1,3,2,4,Noite Sombria
+5,1,5,2,5,Missao Explosiva
+1,2,5,4,2,Planeta Terra Hoje
+2,4,3,1,3,Ilha Perdida
+5,4,3,2,5,Missao Explosiva
+5,3,3,4,1,Missao Explosiva
+3,3,2,5,1,Horizonte Galactico
+2,4,4,3,3,Ilha Perdida
+4,3,1,3,5,Noite Sombria
+3,2,1,2,2,Missao Explosiva
+5,1,1,1,1,Missao Explosiva
+1,5,3,2,1,Ilha Perdida
+3,3,2,5,4,Horizonte Galactico
+4,3,2,4,3,Missao Explosiva
+5,4,3,3,1,Missao Explosiva
+5,1,2,1,1,Missao Explosiva
+4,3,5,1,5,Planeta Terra Hoje
+1,2,1,4,3,Horizonte Galactico
+2,1,5,2,2,Planeta Terra Hoje
+1,2,5,2,5,Planeta Terra Hoje
+1,3,2,3,5,Noite Sombria
+2,4,3,2,3,Ilha Perdida
+2,1,3,4,4,Horizonte Galactico
+5,2,3,5,3,Missao Explosiva
+2,4,1,4,5,Noite Sombria
+1,5,2,1,5,Ilha Perdida
+2,4,2,3,2,Ilha Perdida
+2,3,5,5,2,Planeta Terra Hoje
+3,3,4,5,1,Horizonte Galactico
+5,5,4,1,4,Missao Explosiva
+1,2,1,4,5,Noite Sombria
+1,1,3,5,2,Horizonte Galactico
+4,2,5,1,1,Planeta Terra Hoje
+5,1,1,1,4,Missao Explosiva
+4,3,2,5,5,Horizonte Galactico
+5,3,4,3,5,Missao Explosiva
+2,1,4,4,3,Planeta Terra Hoje
+4,5,5,3,5,Ilha Perdida
+2,3,2,1,2,Ilha Perdida
+1,1,2,3,5,Noite Sombria
+5,1,1,3,4,Missao Explosiva
+2,1,5,3,2,Planeta Terra Hoje
+3,2,2,1,3,Missao Explosiva
+3,5,5,1,1,Ilha Perdida
+4,5,2,3,1,Ilha Perdida
+3,3,4,5,1,Horizonte Galactico
+3,1,2,4,2,Horizonte Galactico
+1,1,5,3,3,Planeta Terra Hoje
+2,4,3,5,2,Horizonte Galactico
+2,5,4,5,4,Ilha Perdida
+5,5,1,2,5,Missao Explosiva
+5,3,2,3,2,Missao Explosiva
+3,5,5,1,3,Ilha Perdida
+4,1,3,3,1,Missao Explosiva
+5,3,5,1,5,Missao Explosiva
+2,4,3,4,5,Noite Sombria
+3,5,2,1,3,Ilha Perdida
+2,2,3,5,2,Horizonte Galactico
+4,2,5,5,4,Planeta Terra Hoje
+2,5,3,1,1,Ilha Perdida
+1,2,4,5,3,Horizonte Galactico
+3,2,1,2,4,Noite Sombria
+4,5,5,4,4,Ilha Perdida
+4,2,4,3,1,Missao Explosiva
+4,1,2,1,2,Missao Explosiva
+3,2,2,5,4,Horizonte Galactico
+4,3,3,4,5,Noite Sombria
+4,5,3,1,3,Ilha Perdida
+3,2,2,2,2,Missao Explosiva
+5,4,1,3,5,Missao Explosiva
+1,5,5,3,4,Ilha Perdida
+2,4,3,3,3,Ilha Perdida
+1,4,4,5,5,Horizonte Galactico
+5,3,4,3,1,Missao Explosiva
+5,3,3,1,2,Missao Explosiva
+4,2,5,3,1,Planeta Terra Hoje
+1,4,2,4,3,Ilha Perdida
+4,1,1,5,5,Horizonte Galactico
+3,2,4,3,5,Noite Sombria
+4,5,4,2,3,Ilha Perdida
+4,1,1,4,4,Missao Explosiva
+4,1,1,4,5,Noite Sombria
+5,2,3,5,1,Missao Explosiva
+5,2,2,3,5,Missao Explosiva
+1,1,4,1,3,Planeta Terra Hoje
+3,1,1,4,1,Horizonte Galactico
+4,4,1,2,2,Missao Explosiva
+4,1,2,1,1,Missao Explosiva
+1,5,1,5,4,Ilha Perdida
+2,2,2,2,2,Missao Explosiva
+2,2,4,1,3,Planeta Terra Hoje
+5,3,3,1,1,Missao Explosiva
+1,2,4,2,4,Planeta Terra Hoje
+4,3,3,4,4,Missao Explosiva
+2,2,3,1,4,Noite Sombria
+2,3,2,4,4,Horizonte Galactico
+5,1,5,3,2,Missao Explosiva
+3,4,5,5,5,Planeta Terra Hoje
+3,4,2,2,3,Ilha Perdida
+5,1,3,3,4,Missao Explosiva
+2,3,3,5,5,Horizonte Galactico
+1,4,1,5,2,Horizonte Galactico
+5,4,5,4,4,Missao Explosiva
+4,4,4,2,1,Missao Explosiva
+3,1,4,2,5,Noite Sombria
+2,4,2,2,4,Ilha Perdida
+2,3,3,2,5,Noite Sombria
+4,3,5,2,5,Planeta Terra Hoje
+1,3,2,4,2,Horizonte Galactico
+4,2,5,5,5,Planeta Terra Hoje
+1,4,5,1,4,Planeta Terra Hoje
+2,1,3,1,1,Planeta Terra Hoje
+4,2,3,5,5,Horizonte Galactico
+1,4,4,5,3,Horizonte Galactico
+2,3,2,5,2,Horizonte Galactico
+4,1,1,5,4,Horizonte Galactico
+3,4,1,1,4,Ilha Perdida
+4,1,3,5,5,Horizonte Galactico
+4,5,1,1,4,Ilha Perdida
+4,4,3,5,4,Horizonte Galactico
+2,2,1,5,4,Horizonte Galactico
+2,5,1,3,5,Ilha Perdida
+5,3,5,1,1,Missao Explosiva
+3,4,2,4,5,Noite Sombria
+2,3,3,2,1,Ilha Perdida
+2,5,1,3,2,Ilha Perdida
+4,4,5,4,2,Planeta Terra Hoje
+2,4,2,5,1,Horizonte Galactico
+5,5,2,1,2,Missao Explosiva
+3,2,2,2,1,Missao Explosiva
+2,1,4,3,1,Planeta Terra Hoje
+4,1,1,3,5,Noite Sombria
+5,1,2,4,2,Missao Explosiva
+2,1,1,1,1,Missao Explosiva
+5,1,5,5,1,Missao Explosiva
+3,4,2,5,4,Horizonte Galactico
+3,2,2,5,1,Horizonte Galactico
+3,5,3,1,1,Ilha Perdida
+5,1,4,2,5,Missao Explosiva
+3,4,5,1,1,Planeta Terra Hoje
+1,1,3,4,2,Horizonte Galactico
+3,3,2,2,1,Missao Explosiva
+3,5,2,2,4,Ilha Perdida
+5,5,2,1,4,Missao Explosiva
+5,2,5,4,4,Missao Explosiva
+3,2,4,3,3,Planeta Terra Hoje
+5,5,3,5,4,Missao Explosiva
+1,4,3,3,4,Ilha Perdida
+5,5,3,2,5,Missao Explosiva
+4,5,4,3,5,Ilha Perdida
+4,3,2,4,2,Missao Explosiva
+2,1,5,4,2,Planeta Terra Hoje
+1,3,4,2,5,Noite Sombria
+1,2,5,2,4,Planeta Terra Hoje
+4,4,1,4,5,Noite Sombria
+2,3,5,5,4,Planeta Terra Hoje
+1,2,1,2,2,Ilha Perdida
+1,5,2,1,2,Ilha Perdida
+3,5,4,2,3,Ilha Perdida
+4,4,2,1,2,Missao Explosiva
+3,4,2,1,2,Ilha Perdida
+5,1,3,4,2,Missao Explosiva
+1,5,1,5,3,Ilha Perdida
+4,3,2,1,5,Noite Sombria
+5,1,1,2,3,Missao Explosiva
+5,2,3,2,5,Missao Explosiva
+1,1,3,4,3,Horizonte Galactico
+4,2,2,5,4,Horizonte Galactico
+5,1,4,3,1,Missao Explosiva
+1,3,1,4,5,Noite Sombria
+1,4,2,4,5,Noite Sombria
+4,3,5,2,3,Planeta Terra Hoje
+4,5,2,3,2,Ilha Perdida
+4,2,1,3,2,Missao Explosiva
+4,4,2,4,5,Noite Sombria
+5,5,1,2,1,Missao Explosiva
+4,1,4,4,3,Missao Explosiva
+5,4,3,5,4,Missao Explosiva
+4,1,1,5,4,Horizonte Galactico
+2,1,5,4,4,Planeta Terra Hoje
+2,5,4,1,2,Ilha Perdida
+5,2,1,5,2,Missao Explosiva
+3,1,1,1,3,Missao Explosiva
+3,4,2,4,2,Ilha Perdida
+3,3,4,5,4,Horizonte Galactico
+2,4,1,2,2,Ilha Perdida
+5,3,2,3,4,Missao Explosiva
+1,5,3,2,3,Ilha Perdida
+2,3,2,4,2,Horizonte Galactico
+2,1,2,1,5,Noite Sombria
+1,4,1,5,4,Horizonte Galactico
+3,3,1,1,5,Noite Sombria
+5,2,5,2,4,Missao Explosiva
+1,4,5,4,4,Planeta Terra Hoje
+4,5,4,2,5,Ilha Perdida
+4,5,3,2,4,Ilha Perdida
+3,3,5,3,2,Planeta Terra Hoje
+2,1,2,3,2,Horizonte Galactico
+5,1,3,1,3,Missao Explosiva
+5,1,4,3,4,Missao Explosiva
+1,4,4,1,5,Noite Sombria
+4,4,5,4,4,Planeta Terra Hoje
+4,2,5,4,5,Planeta Terra Hoje
+3,3,4,5,5,Horizonte Galactico
+5,2,3,5,5,Missao Explosiva
+2,2,5,1,5,Planeta Terra Hoje
+5,2,2,5,5,Missao Explosiva
+5,2,5,5,4,Missao Explosiva
+1,3,1,4,3,Horizonte Galactico
+5,4,5,2,4,Missao Explosiva
+2,4,4,2,3,Ilha Perdida
+1,5,4,5,2,Ilha Perdida
+5,2,5,1,1,Missao Explosiva
+1,1,1,1,2,Noite Sombria
+4,5,1,2,2,Ilha Perdida
+2,4,5,4,3,Planeta Terra Hoje
+2,3,1,1,4,Noite Sombria
+5,3,5,4,1,Missao Explosiva
+5,5,1,3,1,Missao Explosiva
+5,3,3,1,5,Missao Explosiva
+4,5,2,4,3,Ilha Perdida
+4,3,3,4,3,Missao Explosiva
+3,2,5,5,2,Planeta Terra Hoje
+4,1,1,1,2,Missao Explosiva
+2,3,1,4,4,Horizonte Galactico
+1,1,1,2,2,Horizonte Galactico
+2,5,4,4,3,Ilha Perdida
+2,5,5,4,2,Ilha Perdida
+3,2,1,2,1,Missao Explosiva
+1,3,4,2,1,Planeta Terra Hoje
+2,4,4,5,4,Horizonte Galactico
+3,1,5,3,2,Planeta Terra Hoje
+1,4,1,2,5,Noite Sombria
+5,5,4,3,3,Missao Explosiva
+1,4,5,5,2,Planeta Terra Hoje
+2,5,5,4,3,Ilha Perdida
+2,3,4,5,3,Horizonte Galactico
+5,5,1,3,3,Missao Explosiva
+5,4,1,5,2,Missao Explosiva
+2,1,4,5,3,Horizonte Galactico
+1,4,3,2,2,Ilha Perdida
+3,1,2,5,3,Horizonte Galactico
+3,2,1,5,1,Horizonte Galactico
+4,4,2,2,2,Missao Explosiva
+4,1,1,2,5,Noite Sombria
+1,4,3,3,3,Ilha Perdida
+5,2,4,5,4,Missao Explosiva
+4,2,3,2,5,Noite Sombria
+5,5,2,4,4,Missao Explosiva
+1,5,4,1,4,Ilha Perdida
+5,3,5,2,4,Missao Explosiva
+4,2,2,3,4,Missao Explosiva
+4,3,1,3,5,Noite Sombria
+4,2,5,4,3,Planeta Terra Hoje
+5,4,1,1,2,Missao Explosiva
+4,1,3,4,3,Missao Explosiva
+3,1,4,5,1,Horizonte Galactico
+1,4,4,3,4,Ilha Perdida
+3,1,2,5,1,Horizonte Galactico
+4,5,2,2,3,Ilha Perdida
+5,3,1,5,1,Missao Explosiva
+3,5,3,5,3,Ilha Perdida
+2,3,2,3,5,Noite Sombria
+5,5,4,1,5,Missao Explosiva
+2,5,4,2,4,Ilha Perdida
+2,3,1,1,4,Noite Sombria
+1,4,4,4,1,Ilha Perdida
+4,1,4,5,4,Horizonte Galactico
+2,4,3,4,2,Ilha Perdida
+2,1,5,4,1,Planeta Terra Hoje
+5,4,3,4,2,Missao Explosiva
+2,3,1,5,4,Horizonte Galactico
+2,1,3,2,3,Planeta Terra Hoje
+4,5,2,2,4,Ilha Perdida
+1,5,2,5,2,Ilha Perdida
+5,3,2,5,1,Missao Explosiva
+3,3,1,5,4,Horizonte Galactico
+1,5,1,1,2,Ilha Perdida
+5,4,2,1,1,Missao Explosiva
+1,5,5,2,4,Ilha Perdida
+2,3,1,1,1,Ilha Perdida
+2,2,1,2,5,Noite Sombria
+5,2,1,2,2,Missao Explosiva
+2,3,5,4,4,Planeta Terra Hoje
+3,2,3,3,1,Missao Explosiva
+5,4,2,4,4,Missao Explosiva
+5,4,4,3,5,Missao Explosiva
+1,2,4,2,1,Planeta Terra Hoje
+2,1,3,4,1,Horizonte Galactico
+2,4,3,4,1,Ilha Perdida
+3,2,3,3,5,Noite Sombria
+3,3,4,2,4,Planeta Terra Hoje
+4,1,4,5,5,Horizonte Galactico
+1,2,2,4,4,Horizonte Galactico
+4,2,3,5,3,Horizonte Galactico
+3,2,3,1,4,Noite Sombria
+1,5,4,3,5,Ilha Perdida
+4,3,1,4,3,Missao Explosiva
+1,5,5,5,5,Ilha Perdida
+2,4,4,2,3,Ilha Perdida
+3,5,1,3,1,Ilha Perdida
+4,1,4,2,2,Missao Explosiva
+5,3,5,4,5,Missao Explosiva
+1,4,2,3,4,Ilha Perdida
+4,1,3,2,4,Missao Explosiva
+4,1,5,2,3,Planeta Terra Hoje
+4,4,2,5,4,Horizonte Galactico
+2,1,5,3,4,Planeta Terra Hoje
+2,1,3,2,2,Planeta Terra Hoje
+3,1,1,5,4,Horizonte Galactico
+3,3,3,1,4,Noite Sombria
+5,2,2,3,4,Missao Explosiva
+1,4,4,1,3,Ilha Perdida
+4,2,1,5,3,Horizonte Galactico
+1,5,5,4,4,Ilha Perdida
+4,1,1,3,4,Missao Explosiva
+5,2,3,1,3,Missao Explosiva
+3,3,3,2,4,Noite Sombria
+5,3,3,3,4,Missao Explosiva
+1,1,2,1,3,Noite Sombria
+3,3,2,3,1,Missao Explosiva
+4,4,5,1,3,Planeta Terra Hoje
+4,1,4,3,4,Missao Explosiva
+5,5,4,1,1,Missao Explosiva
+1,4,1,3,5,Noite Sombria
+3,1,3,1,4,Noite Sombria
+3,4,4,2,1,Ilha Perdida
+5,1,5,1,4,Missao Explosiva
+3,3,2,5,5,Horizonte Galactico
+5,4,5,3,4,Missao Explosiva
+1,5,5,1,5,Ilha Perdida
+1,4,3,1,2,Ilha Perdida
+1,5,4,4,1,Ilha Perdida
+3,2,4,5,5,Horizonte Galactico
+3,4,1,5,3,Horizonte Galactico
+4,4,4,4,4,Missao Explosiva
+5,3,4,2,2,Missao Explosiva
+3,1,1,1,2,Missao Explosiva
+1,5,4,2,3,Ilha Perdida
+3,4,2,1,1,Ilha Perdida
+5,5,1,3,3,Missao Explosiva
+5,4,1,5,5,Missao Explosiva
+1,1,3,4,4,Horizonte Galactico
+1,2,5,5,1,Planeta Terra Hoje
+2,3,1,1,5,Noite Sombria
+1,1,1,5,3,Horizonte Galactico
+3,1,5,3,3,Planeta Terra Hoje
+3,5,5,1,4,Ilha Perdida
+3,4,5,5,5,Planeta Terra Hoje
+4,5,1,5,2,Ilha Perdida
+4,2,5,1,3,Planeta Terra Hoje
+5,1,4,2,2,Missao Explosiva
+2,4,1,4,2,Ilha Perdida
+5,3,4,4,1,Missao Explosiva
+1,4,2,3,1,Ilha Perdida
+2,5,1,2,2,Ilha Perdida
+3,3,5,2,2,Planeta Terra Hoje
+3,1,1,4,3,Horizonte Galactico
+4,3,5,2,5,Planeta Terra Hoje
+3,2,1,1,4,Noite Sombria
+3,3,1,5,2,Horizonte Galactico
+5,5,1,1,1,Missao Explosiva
+4,5,3,2,4,Ilha Perdida
